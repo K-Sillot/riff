@@ -1,11 +1,11 @@
-module github.com/siyuan-note/riff
+module github.com/K-Sillot/riff
 
 go 1.19
 
 require (
-	github.com/88250/gulu v1.2.3-0.20221117052724-cd06804db798
+	github.com/K-Sillot/gulu v1.2.3-0.20221117052724-cd06804db798
 	github.com/open-spaced-repetition/go-fsrs v0.1.0
-	github.com/siyuan-note/logging v0.0.0-20230223101545-ec2cbf198ffb
+	github.com/K-Sillot/logging v0.0.0-20230223101545-ec2cbf198ffb
 	github.com/vmihailenco/msgpack/v5 v5.3.5
 )
 
