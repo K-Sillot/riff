@@ -4,7 +4,7 @@
 
 ## 💡 Introduction
 
-[Riff](https://github.com/siyuan-note/riff) is the component of spaced repetition for SiYuan.
+[Riff](https://github.com/siyuan-note/riff) is the component of spaced repetition for Sillot.
 
 ## ✨ Features
 

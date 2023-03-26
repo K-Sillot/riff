@@ -22,9 +22,9 @@ package riff
 //	"testing"
 //	"time"
 //
-//	"github.com/88250/gulu"
+//	"github.com/K-Sillot/gulu"
 //	jsoniter "github.com/json-iterator/go"
-//	"github.com/siyuan-note/riff/fsrs"
+//	"github.com/K-Sillot/riff/fsrs"
 //	"github.com/vmihailenco/msgpack/v5"
 //)
 //

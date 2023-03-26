@@ -23,8 +23,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/88250/gulu"
-	"github.com/siyuan-note/logging"
+	"github.com/K-Sillot/gulu"
+	"github.com/K-Sillot/logging"
 	"github.com/vmihailenco/msgpack/v5"
 )
 

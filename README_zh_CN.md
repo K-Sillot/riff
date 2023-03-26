@@ -4,7 +4,7 @@
 
 ## 💡 简介
 
-[Riff](https://github.com/siyuan-note/riff) 是思源笔记的间隔重复组件。
+[Riff](https://github.com/siyuan-note/riff) 是思源笔记（汐洛分支）的间隔重复组件。
 
 ## ✨ 特性
 

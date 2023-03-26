@@ -17,11 +17,12 @@
 package riff
 
 import (
-	"github.com/88250/gulu"
 	"os"
 	"strings"
 	"testing"
 	"time"
+
+	"github.com/K-Sillot/gulu"
 
 	"github.com/open-spaced-repetition/go-fsrs"
 )
